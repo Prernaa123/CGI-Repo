@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: BOA-EMPLOYEE-REST-MICROSERVICE
+    name: CGI_HELLOWORLD_PRODUCER
 
 eureka:
   client:
